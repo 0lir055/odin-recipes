@@ -1,0 +1,13 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS';
+}
+
+h1{
+    text-align: center;
+}
+
+#recipes-list{
+    font-size: 20px;
+}
